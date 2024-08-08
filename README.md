@@ -2,7 +2,7 @@
 
 Meu nome é Beatriz Fornaziero
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://alura.com.br)
 - 
   *Because he lives I can believe in tomorrow 🫀*
 
@@ -10,7 +10,8 @@ Meu nome é Beatriz Fornaziero
 
   00001100348980sp@aluno.educacao.sp.gov.br
 
-   @Biaforna.c
-  
+  @Biaforna.c
 
-![.](https://media1.tenor.com/m/1ow9bwnFon0AAAAd/hug-marta-silva.gif)
+
+  ![Abraços](https://media1.tenor.com/m/1ow9bwnFon0AAAAd/hug-marta-silva.gif)
+  
